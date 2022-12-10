@@ -8,3 +8,5 @@
 HectorMaroto/HectorMaroto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Technologies I work with (for the time being): Java, JavaScript, HTML and CSS.
