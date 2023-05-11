@@ -9,6 +9,6 @@ HectorMaroto/HectorMaroto is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-Technologies that I work with (for the time being): Java, JavaScript, HTML, CSS, Node.js, Express.js, TypeScript, Angular, Tailwind, SCSS.
+Technologies that I work with (for the time being): Java, JavaScript, HTML, CSS, Node.js, Express.js, TypeScript, Angular, Tailwind, SCSS, SQL.
 
 ---
