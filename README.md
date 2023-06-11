@@ -9,6 +9,19 @@ HectorMaroto/HectorMaroto is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-Tech stack => Java, JavaScript, HTML, CSS, Node.js, Express.js, TypeScript, Angular, Tailwind, SCSS/SASS, MySQL, MongoDB, Nestjs, Vue.
+Tech stack:
+<ul>
+  <li>Java</li>
+  <li>JavaScript</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>TypeScript</li>
+  <li>Angular</li>
+  <li>Tailwind</li>
+  <li>SCSS/SASS</li>
+  <li>MySQL</li>
+</ul>  
 
 ---
