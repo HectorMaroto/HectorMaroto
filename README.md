@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
   <li>Tailwind</li>
   <li>SCSS/SASS</li>
   <li>MySQL</li>
+  <li>GIT</li>
 </ul>  
 
 ---
