@@ -9,7 +9,6 @@ HectorMaroto/HectorMaroto is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-
 <h2>Tech stack</h2>
 <h3>FRONT-END</h3>
 <ul>
