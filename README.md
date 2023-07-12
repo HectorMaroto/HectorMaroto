@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <ul>
   <li>Java</li>
   <li>Node JS</li>
-  <li>Express JS</li>
+  <li>Express</li>
   <li>MySQL</li>
   <li>GIT</li>
   <li>NPM</li>
