@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <h3>BACK-END</h3>
 <ul>
   <li>Java</li>
-  <li>Node JS</li>
+  <li>Node.js</li>
   <li>Express</li>
   <li>MySQL</li>
   <li>GIT</li>
