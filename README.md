@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
   <li>Tailwind CSS</li>
   <li>SCSS/SASS</li>
   <li>TypeScript</li>
+  <li>React</li>
+  <li>Next</li>
 </ul>  
 
 <h3>BACK-END</h3>
