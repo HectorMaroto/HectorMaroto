@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Angular</li>
   <li>Tailwind CSS</li>
   <li>SCSS/SASS</li>
   <li>TypeScript</li>
