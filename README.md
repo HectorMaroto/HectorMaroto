@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   <li>HTML</li>
   <li>CSS</li>
   <li>Tailwind CSS</li>
-  <li>SCSS/SASS</li>
+  <li>SCSS</li>
   <li>TypeScript</li>
   <li>React</li>
   <li>Next</li>
