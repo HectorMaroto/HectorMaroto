@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   <li>SASS</li>
   <li>TypeScript</li>
   <li>React</li>
-  <li>Next</li>
+  <li>Next.js</li>
 </ul>  
 
 <h3>BACK-END</h3>
