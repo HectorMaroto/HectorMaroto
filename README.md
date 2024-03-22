@@ -1,4 +1,4 @@
-![download](https://github.com/HectorMaroto/HectorMaroto/assets/113090345/00688e6b-7169-45ab-b940-fa537388c096)<h1>Hi, I’m @HectorMaroto </h1>
+<h1>Hi, I’m @HectorMaroto </h1>
 <h2>I’m Full-Stack Software Developer 💻🌐</h2>
 <h3>I’m interested in Software Development and Cybersecurity</h3>
 
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   <li>Tailwind CSS</li>
   <li>SCSS</li>
   <li>SASS</li>
-  <li>TypeScript</li>
+  <div>![download](https://github.com/HectorMaroto/HectorMaroto/assets/113090345/00688e6b-7169-45ab-b940-fa537388c096</div>
   <li>React</li>
   <li>Next.js</li>
 </section>  
