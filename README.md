@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @HectorMaroto
-- 👀 I’m interested in Web Development and Cybersecurity.
-- 🌱 I’m currently learning Full-Stack development.
+- 👀 I’m interested in Software Development and Cybersecurity.
+- 💻🌐 I’m Full-Stack Software Developer.
 
 > [!NOTE]
->💞️ I’m looking to collaborate on tech companies as a Full-Stack developer | Frontend developer | Backend developer
+>💞️ I’m looking for working on tech companies as a Full-Stack developer | Frontend developer | Backend developer
 
 > [!TIP]
 > 📫 How to reach me : hecmar548@gmail.com | hmaroto02@gmail.com 
