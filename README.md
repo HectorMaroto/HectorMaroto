@@ -15,19 +15,19 @@ You can click the Preview link to take a look at your changes.
 
 <h1>Tech stack</h2>
 <h3>FRONT-END</h3>
-<section>
+![Static Badge](https://img.shields.io/badge/TypeScript-blue)
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Tailwind CSS</li>
   <li>SCSS</li>
   <li>SASS</li>
-  ![Static Badge](https://img.shields.io/badge/TypeScript-blue)
+  
   <li>React</li>
   <li>Next.js</li>
   <li>JSX</li>
   <li>TSX</li>
-</section>  
+
 
 <h3>BACK-END</h3>
 <section>
