@@ -1,5 +1,5 @@
 <h1>Hi, I’m @HectorMaroto </h1>
-<h2>💻🌐 I’m Full-Stack Software Developer</h2>
+<h2>I’m Full-Stack Software Developer 💻🌐</h2>
 <h3>I’m interested in Software Development and Cybersecurity</h3>
 
 > [!NOTE]
