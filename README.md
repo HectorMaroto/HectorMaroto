@@ -25,6 +25,8 @@ You can click the Preview link to take a look at your changes.
   <li>TypeScript</li>
   <li>React</li>
   <li>Next.js</li>
+  <li>JSX</li>
+  <li>TSX</li>
 </section>  
 
 <h3>BACK-END</h3>
