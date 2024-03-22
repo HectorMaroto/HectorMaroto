@@ -3,10 +3,10 @@
 - 💻🌐 I’m Full-Stack Software Developer.
 
 > [!NOTE]
->💞️ I’m looking for working on tech companies as a Full-Stack developer | Frontend developer | Backend developer
+> I’m looking for working on tech companies as a Full-Stack developer | Frontend developer | Backend developer
 
 > [!TIP]
-> 📫 How to reach me : hecmar548@gmail.com | hmaroto02@gmail.com 
+> How to reach me : hecmar548@gmail.com | hmaroto02@gmail.com 
 
 <!---
 HectorMaroto/HectorMaroto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
