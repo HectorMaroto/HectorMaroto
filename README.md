@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>Tech Stack</h1>
 
----
-
 ![Static Badge](https://img.shields.io/badge/TypeScript-blue)
 ![Static Badge](https://img.shields.io/badge/TSX-%230358F8)
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
