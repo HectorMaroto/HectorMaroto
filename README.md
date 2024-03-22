@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   <li>Tailwind CSS</li>
   <li>SCSS</li>
   <li>SASS</li>
-  <li>![Static Badge](https://img.shields.io/badge/TypeScript-blue)</li>
+  ![Static Badge](https://img.shields.io/badge/TypeScript-blue)
   <li>React</li>
   <li>Next.js</li>
   <li>JSX</li>
