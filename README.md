@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1>Tech stack</h2>
 <h3>FRONT-END</h3>
-<ul>
+<section>
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
@@ -25,16 +25,16 @@ You can click the Preview link to take a look at your changes.
   <li>TypeScript</li>
   <li>React</li>
   <li>Next.js</li>
-</ul>  
+</section>  
 
 <h3>BACK-END</h3>
-<ul>
+<section>
   <li>Java</li>
   <li>Node.js</li>
   <li>Express</li>
   <li>MySQL</li>
   <li>GIT</li>
   <li>NPM</li>
-</ul>
+</section>
 
 ---
