@@ -13,9 +13,6 @@ HectorMaroto/HectorMaroto is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![Static Badge](https://img.shields.io/badge/TypeScript-blue)
-
-
 <h1>Tech stack</h2>
 <h3>FRONT-END</h3>
 <section>
@@ -25,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   <li>Tailwind CSS</li>
   <li>SCSS</li>
   <li>SASS</li>
-  <li>TypeScript</li>
+  <li>![Static Badge](https://img.shields.io/badge/TypeScript-blue)</li>
   <li>React</li>
   <li>Next.js</li>
   <li>JSX</li>
