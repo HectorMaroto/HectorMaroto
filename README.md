@@ -14,31 +14,19 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Static Badge](https://img.shields.io/badge/TypeScript-blue)
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
-
-<h1>Tech stack</h2>
-<h3>FRONT-END</h3>
-
-  <li>JavaScript</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Tailwind CSS</li>
-  <li>SCSS</li>
-  <li>SASS</li>
-  
-  <li>React</li>
-  <li>Next.js</li>
-  <li>JSX</li>
-  <li>TSX</li>
-
-
-<h3>BACK-END</h3>
-<section>
-  <li>Java</li>
-  <li>Node.js</li>
-  <li>Express</li>
-  <li>MySQL</li>
-  <li>GIT</li>
-  <li>NPM</li>
-</section>
+![Static Badge](https://img.shields.io/badge/HTML-orange)
+![Static Badge](https://img.shields.io/badge/CSS-blue)
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-lightblue)
+![Static Badge](https://img.shields.io/badge/SASS%2FSCSS-pink)
+![Static Badge](https://img.shields.io/badge/React-%230E9DE4)
+![Static Badge](https://img.shields.io/badge/JSX-%230E9DE4)
+![Static Badge](https://img.shields.io/badge/Next.js-black)
+![Static Badge](https://img.shields.io/badge/TSX-%230358F8)
+![Static Badge](https://img.shields.io/badge/Java-%23E30E07)
+![Static Badge](https://img.shields.io/badge/Node.js-%2300E562)
+![Static Badge](https://img.shields.io/badge/Express.js-white)
+![Static Badge](https://img.shields.io/badge/NPM-%23F53D07)
+![Static Badge](https://img.shields.io/badge/MySQL-blue)
+![Static Badge](https://img.shields.io/badge/Git-red)
 
 ---
