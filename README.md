@@ -13,6 +13,9 @@ HectorMaroto/HectorMaroto is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+![Static Badge](https://img.shields.io/badge/TypeScript-blue)
+
+
 <h1>Tech stack</h2>
 <h3>FRONT-END</h3>
 <section>
