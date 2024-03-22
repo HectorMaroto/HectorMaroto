@@ -1,6 +1,6 @@
-👋 Hi, I’m @HectorMaroto
-👀 I’m interested in Web Development and Cybersecurity.
-🌱 I’m currently learning Full-Stack development.
+- 👋 Hi, I’m @HectorMaroto
+- 👀 I’m interested in Web Development and Cybersecurity.
+- 🌱 I’m currently learning Full-Stack development.
 
 > [!NOTE]
 >💞️ I’m looking to collaborate on tech companies as a Full-Stack developer | Frontend developer | Backend developer
