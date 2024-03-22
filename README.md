@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   <li>Tailwind CSS</li>
   <li>SCSS</li>
   <li>SASS</li>
-  <div>![download](https://github.com/HectorMaroto/HectorMaroto/assets/113090345/00688e6b-7169-45ab-b940-fa537388c096</div>
+  <li>TypeScript</li>
   <li>React</li>
   <li>Next.js</li>
 </section>  
