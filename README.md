@@ -3,7 +3,7 @@
 <h3>I’m interested in Software Development and Cybersecurity</h3>
 
 > [!NOTE]
-> I’m looking for working on tech companies as a Full-Stack developer | Frontend developer | Backend developer
+> I’m looking for working on tech companies as a Full-Stack developer | Frontend developer | Backend developer | Software Developer
 
 > [!TIP]
 > How to reach me : hecmar548@gmail.com | hmaroto02@gmail.com 
