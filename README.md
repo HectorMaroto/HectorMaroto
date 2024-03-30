@@ -30,5 +30,7 @@ You can click the Preview link to take a look at your changes.
 ![Static Badge](https://img.shields.io/badge/NPM-%23F53D07)
 ![Static Badge](https://img.shields.io/badge/MySQL-blue)
 ![Static Badge](https://img.shields.io/badge/Git-red)
+![Static Badge](https://img.shields.io/badge/MongoDB-darkGreen)
+
 
 ---
