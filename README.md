@@ -13,10 +13,6 @@ HectorMaroto/HectorMaroto is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-
-![nombreDeLaFoto](business-card.png)
-
-
 <h1>Tech Stack</h1>
 
 ![Static Badge](https://img.shields.io/badge/TypeScript-blue)
