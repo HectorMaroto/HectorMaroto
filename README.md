@@ -14,8 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<img src="C:\Users\hecma\Downloads\bussiness-card.png" alt="Business Card"/>
-
+![nombreDeLaFoto](business-card.png)
 
 
 <h1>Tech Stack</h1>
