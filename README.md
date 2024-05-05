@@ -13,7 +13,7 @@ HectorMaroto/HectorMaroto is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<img alt="Business Card" src="./bussiness-card.png" width="640" height="350" />
+<img alt="Business Card" src="./card.png" width="640" height="350" />
 
 <h1>Tech Stack</h1>
 
