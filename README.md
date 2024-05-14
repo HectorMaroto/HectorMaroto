@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 ![Static Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Static Badge](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 <br>
-![Static Badge](https://img.shields.io/badge/Java-%23E30E07)
+![Static Badge](https://img.shields.io/badge/Java-005C84?style=for-the-badge&logo=java&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
