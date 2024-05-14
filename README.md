@@ -1,3 +1,6 @@
+
+<img style="object-fit: contain;" src="my-card.png" alt="my-card"/>
+
 <h1>Hi, I’m @HectorMaroto </h1>
 <h2>I’m Software Developer 💻🌐</h2>
 <h3>I’m interested in Software Development and Cybersecurity</h3>
@@ -12,8 +15,6 @@
 HectorMaroto/HectorMaroto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<img style="object-fit: contain;" src="my-card.png" alt="my-card"/>
 
 
 <h1>Tech Stack</h1>
