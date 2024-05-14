@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1>Tech Stack</h1>
 
-![Static Badge](https://img.shields.io/badge/TypeScript-blue)
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 ![Static Badge](https://img.shields.io/badge/TSX-%230358F8)
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
 ![Static Badge](https://img.shields.io/badge/JSX-%230E9DE4)
