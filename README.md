@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Static Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/TSX-%230358F8)
-![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
+![Static Badge](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Static Badge](https://img.shields.io/badge/JSX-%230E9DE4)
 <br>
 ![Static Badge](https://img.shields.io/badge/HTML-orange)
