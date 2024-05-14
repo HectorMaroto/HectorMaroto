@@ -3,7 +3,6 @@
 
 <h1>Hi, I’m @HectorMaroto </h1>
 <h2>I’m Software Developer 💻🌐</h2>
-<h3>I’m interested in Software Development and Cybersecurity</h3>
 
 > [!NOTE]
 > I’m looking for working on tech companies as a Full-Stack developer | Frontend developer | Backend developer | Software developer
