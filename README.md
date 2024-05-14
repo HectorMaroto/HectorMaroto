@@ -12,7 +12,7 @@
 
 > [!TIP]
 > - How to reach me : hecmar548@gmail.com | hmaroto02@gmail.com
-> - You can also find me on <a style="text-decoration: none;" href="https://linkedin.com/in/héctor-maroto-gonzález-06a0432b6">LinkedIn</a>
+> - You can also find me on <a target="_blank" style="text-decoration: none;" href="https://linkedin.com/in/héctor-maroto-gonzález-06a0432b6">LinkedIn</a>
 
 <!---
 HectorMaroto/HectorMaroto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
