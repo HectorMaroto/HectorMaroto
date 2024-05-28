@@ -4,7 +4,7 @@
 <h1>Hi, I’m @HectorMaroto </h1>
 <h3>I’m Software Developer 💻🌐</h3>
 <h4>I’m a passionate developer with professional experience on building user interfaces and full-stack apps with development technologies like TypeScript, Next.js, React, JavaScript...</h4>
-<h5>My goal is becoming a great developer through creating and building lots of projects, and constant learning and improvement</h5>
+<h5>My goal is becoming a great developer through creating and building lots of apps and projects, and constant learning and improvement</h5>
 <h6>I love turning ideas into real things</h6>
 
 > [!NOTE]
