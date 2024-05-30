@@ -1,5 +1,5 @@
 
-<img style="object-fit: contain;" src="my-card.png" loading="eager" alt="my-card"/>
+<img style="object-fit: contain;" src="my-card.png" alt="my-card"/>
 
 <h1>Hi, I’m @HectorMaroto </h1>
 <h3>I’m Software Developer 💻🌐</h3>
